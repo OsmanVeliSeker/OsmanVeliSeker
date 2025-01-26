@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hİ I'M OSMAN<br><br>I am a student at Istanbul University, Department of Web Design and Coding.<br>
+👋 Hİ I'M OSMAN<br><br>Web tasarım ve kodlama alanında başlangıç seviyesi bir profesyonel olarak ibb Ensititü İsmek ‘ de eğitimimi başarılı bir şekil de tamamlayarak kendimi sürekli geliştirmeyei hedefleyen birisiiyim Html5 ve Css3 ile responsive tasarımları yapabiliyorum ve kullanıcı deneyimini ön planda tutarak çalışmayı önemsiyorum.Tasarım sürecind benim için önemli olan kısmı modern ve yaratıcı yaklaşımlar benim için vazgeçilmezdir .Eiğtimimdeki sürekli olarak yapmış olduğum çalışmalar uygulama deneyimi , teknik bilgi ve becerilerimi oldukça güçlendirmemde eönemli rol oynadı . Takım çalışmasına yatkın yapım ve yapıcı karakterim ile projelerde uyum içinde çalışarak hedeflerimizi başarabliceğimize inanıyorum .Web tasarımı ve kodlamaya olan tutkum sürekli öğrenme ve büyüme arzumla birleşerek benim kariyer yolcuğumu şekillendiriyor .Gelecekti ki projelerde yer alarak yaratıcı fikirlerimi hayata geçirmek ve sktörde sağlam bir yer edinmek istiyorum .<br>
 
 
 ## 🌐 Socials:
